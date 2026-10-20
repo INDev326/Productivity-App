@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Folio",
+      "hasCanvas": false,
+      "bodyTextLen": 896,
+      "bodyTextHash": "3e92fecb1c2a78256102051e8bfe000a2aaffabd9af00b8fe766383d9247a0be",
+      "bodyTextPrefix": "Folio Academic OS Home Planner Focus Library More SUNDAY 20 SEPT",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Folio",
+      "hasCanvas": false,
+      "bodyTextLen": 878,
+      "bodyTextHash": "14f10430b1f24cc2d16ffad19a8f4aecedc834a636703a5ebb6ad094529808c1",
+      "bodyTextPrefix": "SUNDAY 20 SEPTEMBER Good morning, Maya. 9-day streak. 7.8h logge",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

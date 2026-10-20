@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Build outputs & caches
+dist/
+.output/
+.vercel/
+.nitro/
+.tanstack/
+android/
+
+# Generated files
+src/routeTree.gen.ts
+
+# QA & artifacts
+artifacts/
+screenshots/
+
+# Platform files and rules (do not modify/reformat)
+.grok/
+public/__grok/
+scripts/grok-pwa-*
+server/
+AGENTS.md
