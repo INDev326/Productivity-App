@@ -1,0 +1,28 @@
+# Dependencies & caches
+node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Git & IDE
+.git
+.gitignore
+.idea
+.vscode
+
+# Platform & Documentation
+AGENTS.md
+.grok/*
+!.grok/app-env.json
+android
+artifacts
+screenshots
+k8s
+docker-compose*.yml
+
+# Build outputs (rebuilt fresh in Docker stage)
+.vercel
+.output
+.nitro
+.tanstack
+dist
